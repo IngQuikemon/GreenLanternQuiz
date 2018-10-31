@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GreenLanternQuiz</string>
+    <string name="subtitle">The Quiz</string>
+    <string name="logo_title">Green Lantern logo</string>
+    <string name="quiz_description">Dust off your Green Lantern knowledge and proof your knowledge by getting 100 on the score.</string>
+
+    <string name="question1">Name one Green Lantern of Earth:</string>
+    <string name="question2">Which of this is a green Lantern?</string>
+    <string name="question3">Which is the spectrum color of hope?</string>
+    <string name="question4">How many Lantern Crops exist?</string>
+    <string name="question5">Which Lanterns have good synergy between each other?</string>
+    <string name="question6">How many orange lanterns exist in their group?</string>
+
+    <string name="option2_1">Atrocitus</string>
+    <string name="option2_2">Amon Sur</string>
+    <string name="option2_3">Abin Sur</string>
+    <string name="option2_4">Munk</string>
+    <string name="option2_5">Boodikka</string>
+
+    <string name="option3_1">Yellow</string>
+    <string name="option3_2">Indigo</string>
+    <string name="option3_3">Violet</string>
+    <string name="option3_4">Blue</string>
+
+    <string name="option5_1">Yellow Lanterns</string>
+    <string name="option5_2">Orange Lanterns</string>
+    <string name="option5_3">Green Lanterns</string>
+    <string name="option5_4">Red Lanterns</string>
+    <string name="option5_5">Blue Lanterns</string>
+    <string name="option5_6">Violet Lanterns</string>
+</resources>
