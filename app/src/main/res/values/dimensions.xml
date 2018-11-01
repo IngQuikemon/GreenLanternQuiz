@@ -2,4 +2,9 @@
 <resources>
     <dimen name="question_text_size">25sp</dimen>
     <dimen name="answer_text_size">15sp</dimen>
+    <dimen name="padding_button">10dp</dimen>
+    <dimen name="margin_top_long">20dp</dimen>
+    <dimen name="margin_top_short">10dp</dimen>
+    <dimen name="margin_sides_button">20dp</dimen>
+    <dimen name="margin_up_down">15dp</dimen>
 </resources>

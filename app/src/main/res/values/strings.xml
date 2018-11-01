@@ -3,11 +3,13 @@
     <string name="subtitle">The Quiz</string>
     <string name="logo_title">Green Lantern logo</string>
     <string name="quiz_description">Dust off your Green Lantern knowledge and proof your knowledge by getting 100 on the score.</string>
+    <string name="button_submit">Score my answers</string>
+    <string name="final_score_text">Your score in this quiz is:</string>
 
     <string name="question1">Name one Green Lantern of Earth:</string>
     <string name="question2">Which of this is a green Lantern?</string>
     <string name="question3">Which is the spectrum color of hope?</string>
-    <string name="question4">How many Lantern Crops exist?</string>
+    <string name="question4">How many Lantern Corps exist?</string>
     <string name="question5">Which Lanterns have good synergy between each other?</string>
     <string name="question6">How many orange lanterns exist in their group?</string>
 
